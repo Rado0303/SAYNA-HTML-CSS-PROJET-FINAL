@@ -1,0 +1,134 @@
+/*pour les ajustement specifique */
+header{
+    background-color:  #d35649;
+    padding: 1%;
+    justify-content: baseline;
+
+}
+
+
+ul{
+    padding: 1%;
+    font-size: 10pt;
+}
+.li-nav{
+    align-items: baseline;
+    justify-content: space-evenly;
+}
+.color{
+    opacity: 1;
+}
+.boutton-0{
+    background-color:  #d35649;
+    color: #eee;
+}
+.boutton-1{
+    margin-left: 46%;
+    font-weight: bold;
+    font-size: small;
+    background-color: rgba(238, 238, 238, 0.61);
+}
+a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.781);
+}
+.entete{
+    background-color: rgba(255, 255, 255, 0.664);
+    margin-bottom: 2%;
+    padding: 2%;
+    border-radius: 2%;
+}
+.titre{
+    background-image: url(Images/group-1.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 2%;
+    height: 55vh;
+    margin-bottom: 3%;
+}
+
+.img-c{
+    
+    width: 20vw;
+    height: 20vw;
+    border-radius: 50%;
+}
+.para{
+    color: #d35649;
+    margin-bottom: 4%;
+}
+.item-1{
+    background-color: #d35649;
+    padding: 1%;
+}
+.item-2{
+    background-color:#98a5a5;
+    padding: 1%;
+}
+.item-3{
+    background-color: #509bd7;
+    padding: 1%;
+}
+.footpage{
+    background-color: #1f1f1f;
+}
+.list-end{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items:baseline ;
+    font-size: 10px;
+    border-top: 2px solid #98a5a5;
+    border-bottom: 2px solid #98a5a5;
+    height: 5%;
+}
+.list-item{
+    text-decoration: none;
+}
+.special{
+    margin-top: -30%;
+    border:2px solid #98a5a5;
+    border-radius: 50%;
+    
+}
+.dl{
+    margin-left: 4%;
+} 
+.dd{
+    font-size:10px;
+}
+.end{
+    font-size: 10px;
+} 
+.text-end{
+    background-color: #1f1f1f25;
+}
+.boutton6{
+    background-color:#444 ;
+    color: white;
+}
+.boutton4{
+    background-color:#eee;
+    color: #d35649;
+    font-size: 10px;
+}
+.boutton5{
+    background-color: #eee;
+    font-size: 10px;
+    color: #98a5a5;
+    
+}
+.footer{
+    background-color:rgba(68, 68, 68, 0.589);
+    display: flex;
+    font-size: 10px;
+    outline-color: white;
+} 
+.svg{
+    list-style: none;
+}
+
+
+
+
+
